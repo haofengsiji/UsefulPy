@@ -1,4 +1,4 @@
 # UsefulPy
 Some personal useful python scripts
 
-* Word Frequency Counter $\rightarrow$ WordFreCounter
+* Word Frequency Counter --> WordFreCounter

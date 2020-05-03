@@ -1,7 +1,7 @@
 # Word Frequency Counter-Chinese
 
 **Archive**
-
+```bash
 📦Chinese
  ┣ 📂data
  ┃ ┣ 📜1-2.txt
@@ -13,6 +13,7 @@
  ┣ 📜output.xlsx
  ┣ 📜pre_data.txt
  ┗ 📜README.md
+```
 
 **Required Package**
 
